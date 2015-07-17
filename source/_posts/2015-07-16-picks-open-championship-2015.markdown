@@ -15,7 +15,7 @@ In this week, the 4 players with the best possible option that maximize the retu
 
 For this week, we chose Dustin Johnson as the player who will be among the Top5. 
 
-Its history in this tournament shows he likes to play here and will surely make a great game.
+Its history in this tournament shows, he likes to play here and will surely make a great game.
 
 
  
