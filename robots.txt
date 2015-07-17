@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://golfbettingsystem.github.io/sitemap.xml 

@@ -1,0 +1,33 @@
+* + table {
+  border-style:solid;
+  border-width:2px;
+  border-color:#FFFFFF;
+}
+ 
+* + table th, * + table td {
+  border-style:solid;
+  border-width:2px;
+  border-color:#FFFFFF;
+  padding-left: 3px;
+  padding-right: 3px;
+  background: #D8D6DE;
+}
+ 
+* + table th {
+  border-style:solid;
+  font-weight:bold;
+  background: #7A787F;
+  color: #FFFFFF;
+}
+ 
+* + table th[align="left"], * + table td[align="left"] {
+  text-align:left;
+}
+ 
+* + table th[align="right"], * + table td[align="right"] {
+  text-align:right;
+}
+ 
+* + table th[align="center"], * + table td[align="center"] {
+  text-align:center;
+}

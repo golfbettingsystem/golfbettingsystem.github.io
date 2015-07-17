@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Welcome | Golf Betting System Blog]]></title>
+  <link href="http://golfbettingsystem.github.io/blog/categories/welcome/atom.xml" rel="self"/>
+  <link href="http://golfbettingsystem.github.io/"/>
+  <updated>2015-07-17T13:17:00+02:00</updated>
+  <id>http://golfbettingsystem.github.io/</id>
+  <author>
+    <name><![CDATA[GBS]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome to Golf Betting System]]></title>
+    <link href="http://golfbettingsystem.github.io/blog/2015/07/05/welcome-to-golf-betting-system/"/>
+    <updated>2015-07-05T17:21:22+02:00</updated>
+    <id>http://golfbettingsystem.github.io/blog/2015/07/05/welcome-to-golf-betting-system</id>
+    <content type="html"><![CDATA[<h2>What is GBS?</h2>
+
+<p>GBS is a sports betting system for golf, using techniques of <strong>Machine Learning</strong>, which will provide a reliable model to bet.</p>
+
+<p>Our investment strategy is based on Artificial Intelligence and Data Science. We develop a statistical model for each tournament in order to predict the positions of the most likely players that can finish at the top of the classification.</p>
+
+<p>We will give picks for the European and PGA tournaments every week (sometimes, there are restrictions in some specific tournaments because the data we have collected is not complete so it can&rsquo;t give us a precise model, but normally will be both tournaments).</p>
+
+<p>In this blog, we will be collecting predictions of international golf competitions, that way, you can test the effectiveness of our model.</p>
+
+<p><img class="center" src="/images/golfbet.jpg" width="500" height="250" title="&lsquo;Golf Betting System&rsquo; &lsquo;An image of money and golf&rsquo;" ></p>
+
+<h2>Strategy</h2>
+
+<ul>
+<li><p>Long Term</p></li>
+<li><p>Fixed stake 5% of the bank
+(we are studying f-kelly criterion with Montecarlo simulations to check out if it&rsquo;s feasible)</p></li>
+<li><p>4 players with the best possible option that maximize the return i.e: the <code>TOP 5</code> / <code>TOP 10</code> / <code>TOP 20</code> bet for each one</p></li>
+</ul>
+
+
+<p><img class="center" src="/images/strategy_up2.jpg" width="500" height="250" title="&lsquo;Golf Betting System&rsquo; &lsquo;strategy image&rsquo;" ></p>
+]]></content>
+  </entry>
+  
+</feed>
