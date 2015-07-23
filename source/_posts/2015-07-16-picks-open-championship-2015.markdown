@@ -29,7 +29,7 @@ We hope that Rickie make a great tournament and is a favorite to enter the top 1
 
 ## ADAM SCOTT - TOP 10   {% img right /images/adam_scott.png 130 172 'Golf Betting System'%}
 
-Despite not getting very good positions in 2010 and 2011,in the last three years been in the top 5 in this tournament.
+Despite not getting very good positions in 2010 and 2011, in the last three years been in the top 5 in this tournament.
 
 We hope to improve their performance last year and get a good position.
 
